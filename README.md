@@ -11,4 +11,10 @@ The simplest iPhone desktop imitation
 
 * Not optimized for small iphone screens and iPads
 
-![Demo video!](Demo/Demo.mp4)
+## Screenshots
+
+![Settings menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Screenshots/screen_1.png" width="400">
+![Network menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Screenshots/screen_2.png" width="400">
+![Bluetooth menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Screenshots/screen_3.png" width="400">
+
+![Demo video](https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Demo.mp4)
