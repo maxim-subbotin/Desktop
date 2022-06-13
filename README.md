@@ -13,8 +13,8 @@ The simplest iPhone desktop imitation
 
 ## Screenshots
 
-![Settings menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Screenshots/screen_1.png" width="400">
-![Network menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Screenshots/screen_2.png" width="400">
-![Bluetooth menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Screenshots/screen_3.png" width="400">
+![Settings menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/master/Demo/Screenshots/screen_1.png" width="400">
+![Network menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/master/Demo/Screenshots/screen_2.png" width="400">
+![Bluetooth menu]<img src="https://raw.githubusercontent.com/maxim-subbotin/Desktop/master/Demo/Screenshots/screen_3.png" width="400">
 
-![Demo video](https://raw.githubusercontent.com/maxim-subbotin/Desktop/Demo/Demo.mp4)
+![Demo video](https://raw.githubusercontent.com/maxim-subbotin/Desktop/master/Demo/Demo.mp4)
